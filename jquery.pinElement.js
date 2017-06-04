@@ -3,7 +3,6 @@
  * @author		Anas Laksyby
  * @copyright		2017 (c) jquery.pinElement
  * @license		MIT License
- *
  * The MIT License (MIT)
  *
  * Copyright (c) 2017 Anas Laksyby
